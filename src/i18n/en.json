@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutMe": "About Me",
+    "academics": "Academics",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Welcome to my personal website",
+    "name": "Khom Socheat",
+    "title": "Software Developer",
+    "description": "I am passionate about creating beautiful and functional web applications. Let's build something amazing together!",
+    "contactBtn": "Get In Touch",
+    "learnMoreBtn": "Learn More"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "A passionate developer based in Cambodia",
+    "bio1": "Hello! I'm Khom Socheat, a passionate software developer currently studying at CADT. I love creating elegant solutions to complex problems and am always eager to learn new technologies.",
+    "bio2": "When I'm not coding, you can find me exploring new technologies, reading tech blogs, or working on personal projects. I believe in continuous learning and always strive to improve my skills.",
+    "name": "Name",
+    "email": "Email",
+    "location": "Location",
+    "study": "Study",
+    "skills": "My Skills",
+    "downloadCV": "Download CV"
+  },
+  "academics": {
+    "title": "Education",
+    "subtitle": "My academic journey and achievements",
+    "current": "Current",
+    "education": {
+      "university": {
+        "degree": "Bachelor's Degree in Computer Science and Engineering",
+        "school": "ACLEDA University",
+        "location": "Phnom Penh, Cambodia",
+        "duration": "2023 - Present"
+      },
+      "iti": {
+        "degree": "Associate Degree in Information Technology",
+        "school": "I.T.I (Industrial Technical Institute)",
+        "location": "Phnom Penh, Cambodia",
+        "duration": "2023 - 2025"
+      },
+      "highschool": {
+        "degree": "High School Diploma",
+        "school": "Hunsen Borey 100 Knoang High School",
+        "location": "Hunsen Borey 100 Knoang, Cambodia",
+        "duration": "2021 - 2023"
+      }
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "My professional journey and accomplishments",
+    "current": "Present",
+    "jobs": {
+      "ministry": {
+        "position": "Software Developer",
+        "company": "Ministry of Information",
+        "duration": "2023 - Present",
+        "responsibilities": [
+          "Developing and maintaining government web applications",
+          "Collaborating with team members on software solutions",
+          "Implementing modern web technologies and best practices"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Some of my recent work and creations",
+    "viewLive": "View Live",
+    "viewCode": "View Code",
+    "items": {
+      "project1": {
+        "title": "Portfolio Website",
+        "description": "A modern and responsive portfolio website built with Vue.js and Tailwind CSS."
+      },
+      "project2": {
+        "title": "Task Manager API",
+        "description": "RESTful API for task management with authentication and MongoDB database."
+      },
+      "project3": {
+        "title": "Mobile Weather App",
+        "description": "Cross-platform mobile app for weather forecasting with real-time updates."
+      }
+    }
+  },
+  "favorite": {
+    "title": "My Interests & Hobbies",
+    "subtitle": "Things I love to do in my free time",
+    "hobbies": {
+      "sport": {
+        "title": "Sports",
+        "description": "Staying active and healthy through various sports activities keeps me energized and focused."
+      },
+      "reading": {
+        "title": "Reading",
+        "description": "I enjoy reading books, especially tech-related content and self-improvement literature."
+      },
+      "music": {
+        "title": "Music",
+        "description": "Listening to music helps me relax and stay creative during coding sessions."
+      },
+      "gaming": {
+        "title": "Gaming",
+        "description": "Playing games is my way to unwind and have fun while improving problem-solving skills."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Feel free to reach out to me for any questions or opportunities",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "followMe": "Follow Me",
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "email": "Your Email",
+      "emailPlaceholder": "john@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "How can I help you?",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "successMessage": "Thank you! Your message has been sent successfully."
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "Khom Socheat",
+      "description": "A passionate software developer from Cambodia, dedicated to creating innovative web solutions and learning new technologies."
+    },
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "contactInfo": {
+      "title": "Contact Info"
+    },
+    "copyright": "© {year} {name}. All rights reserved.",
+    "madeWith": "Made with",
+    "using": "using"
+  },
+  "home": {
+    "title": "Welcome",
+    "description": "This is my portfolio"
+  }
+}
